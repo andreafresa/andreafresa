@@ -1,8 +1,8 @@
 ### Hi there 👋
 I'm Andrea, a PhD student passionate about basketball, cinema and much more :) 
 
-- 🌱 I’m currently learning Edge Computing, Machine Learning , IoT
+- 🌱 My research interest is design of algorithms for edge computing.
 
-- 📫 How to reach me: 
+- 📫 Contacts: 
 Personal: andreafresa8@gmail.com
 Office: andrea.fresa@imdea.org
